@@ -1,3 +1,9 @@
+kcharselect (4:4.8.4-2) unstable; urgency=low
+
+  * Package disappeared in the archive due to missing epoch. Readd and upload
+
+ -- Sune Vuorela <sune@debian.org>  Wed, 20 Jun 2012 10:29:32 +0200
+
 kcharselect (4.8.4-1) unstable; urgency=low
 
   * Initial release split from kdeutils.
