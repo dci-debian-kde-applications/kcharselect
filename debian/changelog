@@ -1,12 +1,20 @@
-kcharselect (4:14.11.95-0ubuntu1) UNRELEASED; urgency=medium
+kcharselect (4:14.12.0-0ubuntu1) vivid; urgency=medium
 
-  * New upstream beta release.
+  * New upstream release
+  * Remove kdelibs5-dev depend version as there was not a new release.
+
+ -- Scarlett Clark <sgclark@kubuntu.org>  Mon, 15 Dec 2014 16:14:10 +0100
+
+kcharselect (4:14.11.97-0ubuntu1) vivid; urgency=medium
+
+  * New upstream release candidate.
   * Fix watch urls for new release location.
   * Update Vcs urls for the new repository location.
   * Bump Standards-Version to 3.9.6, no changes needed.
   * Update the maintainer.
+  * PPA build
 
- -- Philip Muškovac <yofel@kubuntu.org>  Sun, 23 Nov 2014 13:40:21 +0100
+ -- Philip Muškovac <yofel@kubuntu.org>  Fri, 28 Nov 2014 21:29:54 +0100
 
 kcharselect (4:4.14.0-1) unstable; urgency=medium
 
