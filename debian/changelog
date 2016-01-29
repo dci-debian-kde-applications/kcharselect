@@ -1,3 +1,9 @@
+kcharselect (4:15.12.0-1~) UNRELEASED; urgency=medium
+
+  * New upstream release (15.12.0).
+
+ -- Maximiliano Curia <maxy@debian.org>  Wed, 16 Dec 2015 16:10:36 +0100
+
 kcharselect (4:15.12.0-0ubuntu1) UNRELEASED; urgency=medium
 
   * New upstream release
@@ -16,6 +22,12 @@ kcharselect (4:15.08.1-0ubuntu1) wily; urgency=medium
   * New upstream release (15.08.1)
 
  -- Clive Johnston <clivejo@aol.com>  Tue, 22 Sep 2015 16:20:13 +0100
+
+kcharselect (4:15.08.0-1) unstable; urgency=medium
+
+  * New upstream release (15.08.0).
+
+ -- Maximiliano Curia <maxy@debian.org>  Tue, 08 Sep 2015 18:41:59 +0200
 
 kcharselect (4:15.08.0-0ubuntu1) wily; urgency=medium
 
@@ -41,6 +53,13 @@ kcharselect (4:15.04.2-0ubuntu1) wily; urgency=medium
   * New upstream release
 
  -- Jonathan Riddell <jriddell@ubuntu.com>  Tue, 09 Jun 2015 18:41:58 +0200
+
+kcharselect (4:15.04.1-1~) UNRELEASED; urgency=medium
+
+  * New upstream release (15.04.0).
+  * New upstream release (15.04.1).
+
+ -- Maximiliano Curia <maxy@debian.org>  Mon, 18 May 2015 14:10:46 +0200
 
 kcharselect (4:14.12.3-0ubuntu1) vivid; urgency=medium
 
