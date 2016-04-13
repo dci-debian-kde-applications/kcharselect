@@ -1,3 +1,11 @@
+kcharselect (4:15.12.1-2~1.gbp27b59d) UNRELEASED; urgency=medium
+
+  ** SNAPSHOT build @27b59d99221b67e6f8d56b0bda1db10ffafcc8b6 **
+
+  * Bump Standards-Version to 3.9.8
+
+ -- Automatic packaging <maxy+jenkins@gnuservers.com.ar>  Wed, 13 Apr 2016 12:17:36 +0200
+
 kcharselect (4:15.12.1-1) experimental; urgency=medium
 
   * New upstream release (15.12.0).
