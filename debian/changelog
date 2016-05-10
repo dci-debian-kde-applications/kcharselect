@@ -1,11 +1,12 @@
-kcharselect (4:16.04.0-1~1.gbpe9e17a) UNRELEASED; urgency=medium
+kcharselect (4:16.04.1-1~1.gbp4b0704) UNRELEASED; urgency=medium
 
-  ** SNAPSHOT build @e9e17a8ea9f83086c6a07a9c551baa78cd9039ff **
+  ** SNAPSHOT build @4b0704acefb948717b0fc7904f665e05fdefde7d **
 
   * Bump Standards-Version to 3.9.8
   * UNRELEASED
+  * UNRELEASED
 
- -- Automatic packaging <jenkins@amadeus.gnuservers.com.ar>  Thu, 21 Apr 2016 02:17:10 +0200
+ -- Automatic packaging <jenkins@amadeus.gnuservers.com.ar>  Tue, 10 May 2016 20:17:11 +0200
 
 kcharselect (4:15.12.1-1) experimental; urgency=medium
 
