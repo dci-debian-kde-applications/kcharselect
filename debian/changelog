@@ -1,10 +1,8 @@
-kcharselect (4:16.08.0-1~1.gbp2c2306) UNRELEASED; urgency=medium
+kcharselect (4:16.08.0-1) unstable; urgency=medium
 
-  ** SNAPSHOT build @2c23067d14bb8a1a0711005e8417945a1dcaed9f **
+  * New upstream release (16.08.0)
 
-  * UNRELEASED
-
- -- Maximiliano Curia <jenkins@gnuservers.com.ar>  Thu, 18 Aug 2016 20:17:13 +0200
+ -- Maximiliano Curia <maxy@debian.org>  Mon, 17 Oct 2016 23:16:29 +0200
 
 kcharselect (4:16.04.1-1) unstable; urgency=medium
 
