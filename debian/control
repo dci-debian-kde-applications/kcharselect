@@ -12,6 +12,8 @@ Build-Depends: cmake (>= 2.8.12~),
                debhelper (>= 9),
                extra-cmake-modules (>= 1.7.0~),
                kdoctools-dev,
+               libkf5bookmarks-dev,
+               libkf5crash-dev,
                libkf5i18n-dev,
                libkf5widgetsaddons-dev,
                libkf5xmlgui-dev,
@@ -26,6 +28,8 @@ Package: kcharselect
 Section: utils
 Architecture: any
 Depends: ${misc:Depends}, ${shlibs:Depends}
+Breaks: ${kde-l10n:all}
+Replaces: ${kde-l10n:all}
 Description: special character utility
  KCharSelect is a utility for finding special characters which are not
  available on the keyboard.  It can search for characters by Unicode number,
