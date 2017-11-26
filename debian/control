@@ -24,7 +24,6 @@ Vcs-Browser: https://anonscm.debian.org/git/pkg-kde/applications/kcharselect.git
 Vcs-Git: https://anonscm.debian.org/git/pkg-kde/applications/kcharselect.git
 
 Package: kcharselect
-Section: utils
 Architecture: any
 Depends: ${misc:Depends}, ${shlibs:Depends}
 Breaks: ${kde-l10n:all}
